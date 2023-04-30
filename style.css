@@ -1,0 +1,61 @@
+body {
+
+    background-image: url("https://d33wubrfki0l68.cloudfront.net/5350d89444a5a4848cb7703ddf216d5dec686bdb/ae6ee/static/head.067b05ac.png");
+    background-size: cover;
+
+}
+
+.heading {
+
+    top: 0;
+    margin-top: 0px;
+    position: fixed;
+    width: 100%;
+    letter-spacing: 2px;
+    position: fixed;
+    text-align: center;
+
+}
+
+#main_heading {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 29px;
+    margin-top: 6px;
+
+}
+
+#note_heading {
+
+    color: black;
+    font-weight: bold;
+
+}
+
+#obj_heading {
+
+    margin-top: 80;
+    color: black;
+    letter-spacing: 2px;
+    font-weight: bold;
+
+}
+
+#object_input {
+
+    width: 500px;
+    height: 30px;
+    border-width: 1.5px;
+    border-color: black;
+    border-radius: 7px;
+    margin-top: 6px;
+
+}
+
+canvas {
+
+    box-shadow: 5px 5px 5px white;
+    margin-top: 85px;
+    border-radius: 15px;
+
+}
